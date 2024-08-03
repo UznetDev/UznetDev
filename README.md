@@ -26,7 +26,7 @@
     </a>
 </p>
 
-<h1 align="center">🏆 GitHub Profile Trophy</h1>
+<h3 align="center">🏆 GitHub Profile Trophy</h1>
     <img align="center"  src="https://github-profile-trophy.vercel.app/?username=UznetDev&theme=darkhub" alt="GitHub Profile Trophy">
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
