@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abdurahmon Niyozaliev</h1>
-<h3 align="center">A Data sciense, ML, Backend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uznetdev&label=Profile%20views&color=0e75b6&style=flat"
-        alt="uznetdev" /> </p>
+<p align="center">
+    <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+    <h2 align="center">Abdurahmon Niyozaliev</h2>
+    <p align="center">A Data sciense, ML, Backend developer</p>
+    </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=uznetdev&label=Profile%20views&color=0e75b6&style=flat"
+        alt="uznetdev" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=uznetdev" alt="uznetdev" /></a> </p>
