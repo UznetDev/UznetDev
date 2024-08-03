@@ -104,11 +104,6 @@
         <img src="https://docs.aiohttp.org/en/stable/_static/aiohttp-plain.svg" alt="aiohttp" width="40" height="40" />
     </a>
 
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-            alt="Machine Learning" width="40" height="40" />
-    </a>
-
 <a href="https://core.telegram.org/bots" target="_blank" rel="noreferrer">
         <img src="https://codernet.uz/data/img/telegram.svg"
             alt="Telegram Bot" width="40" height="40" />
