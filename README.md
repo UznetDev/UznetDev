@@ -68,7 +68,7 @@
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a>
 
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg"
             alt="fastapi" width="40" height="40" />
     </a>
@@ -76,51 +76,51 @@
         <img src="https://avatars.githubusercontent.com/u/68694599?s=200&v=4" alt="aiogram" width="40" height="40" />
     </a>
 
-    <a href="https://www.numpy.org/" target="_blank" rel="noreferrer">
+<a href="https://www.numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://numpy.org/doc/stable/_static/numpylogo_dark.svg" alt="NumPy" width="40" height="40" />
     </a>
 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="MySQL" width="40" height="40" />
     </a>
 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
     </a>
 
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
         <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40" />
     </a>
 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="40" height="40" />
     </a>
 
-    <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
         <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit"
             width="40" height="40" />
     </a>
 
-    <a href="https://docs.aiohttp.org/" target="_blank" rel="noreferrer">
+<a href="https://docs.aiohttp.org/" target="_blank" rel="noreferrer">
         <img src="https://docs.aiohttp.org/en/stable/_static/aiohttp-plain.svg" alt="aiohttp" width="40" height="40" />
     </a>
 
-    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
             alt="Machine Learning" width="40" height="40" />
     </a>
 
-    <a href="https://core.telegram.org/bots" target="_blank" rel="noreferrer">
+<a href="https://core.telegram.org/bots" target="_blank" rel="noreferrer">
         <img src="data:image/webp;base64,UklGRjAEAABXRUJQVlA4ICQEAABwFwCdASo4ADgAPikKikUhkNDOeBgChLYAXI64vyXmduOcW/C/8jvljpv8i+3v5P4p392+4D3gfwDpAP0j/vHUg8wH62fqf7xXSAf1L/S9Yf6AHlX/uF8D37R/s57S10A5+0E+bM9zzjf98/I7Ja/462ZTJvGz9NewL+rH++7CPoZ/sqX+tAOMg1tXEfypArXPsT47ikpudSWC//7KAqPNgG4te/zk0/dbs9zivv9vKXBY9esnfSH6AlLkNZcGeaeOc9QAAP7/+Pi32Q6vrweYiSiNfRGZPmGldGHZ/DDZ5vX+Eea8RVwCs77DNrUp2snPd8Wm2faoiiT6vMPB2cRNsQnqJs6+1l4IQPloOW75+EHP4wd3cSXcZt5DGZg2EVnWq7Za4CFUNyuHgzFUbYRX2lFIB54x0hX3RiYxMAQV76VhxsKuC+3rWkdPdFxU0t3Bp7oqu9ChSFlNHsxZ4c1/n2gmjXomsVh/ApT4dV7juIQxZGrdVZEB/hdW4f3OsejM3Ba4ME1LQx8DVWRfOtRMBR/JLkLa6GIEYvnx3PbQwDWyuWDF8LqzL7M/Mlmn//YIb0KC9TWsL08l8WBhjTMIv//4B8l7n807KVPWIbLQTHgGtVcECSxK5+KGm9RIP/gdfWWy5R4D21bmqzCMeMc7bJqgh/4ctbRo3diLKN7pyB67QraIm1k/QV3M74RHTkcM6TWR0tJBtO5iVxvn859/ihlNl5yhIJenTrTcJZZ4hixFYzKowS5daTXVgPMkSTzRl1Y0fgUPlRX0xUmTPwYBCrty36JLi1nzfoDRXOjLscWUtjBCZ0HnXz8WbMlRXE2H2aMfk1FkOq2/8f/3Ed3VDJoUSIjYjXaT+7/kau7w0Exs6QnkTYhPCayQxiDuBwo/1BqBtEdoy9e8Vl7fTaVm2our+7j3mAJLc0NvguEXcnM6hCdJqvDIOJ03+Dkh4BAwWvkp/PyzlaA2v3Iq78+hcnbDt2xgWBndQZ3hJGEggG1c9IiCHpIXm77gS9cD1q9Dn4lOBenDbncUVSxg+iH6jFOD9YJsJEgd5nWBj5eFPqYovGoyqhthyscEwdx3K/vo2OTib+JPAVljC0uTt2XtNBGrJpuzqtcj1I2ewbSQPEHjpgwKEt045blPAEJHOBIOycW0ZyxvluW5WzoN3wzmcVN38MG4BHizHso5RToRuH6M/J/zyZR/HiAWU4Q4+W8zjjH/i1Tcc62eTFkyEIAreEfZrpv04gdrtYo4Ckc/oBUavmgYJcBeKHdT0pAIWSiihN0MDS+UVZyZx+z1RrffxpA04Pb4UMA9vyrEMcT9HykNhxLL8ss7BZWXVZ6st8KIy8An39sT3iTwcwQ8Wi+fWxa3Pf60Cuo18IeAxIYO6lLBSlKGy1iE+uq/PFtMAAELgYAA"
             alt="Telegram Bot" width="40" height="40" />
     </a>
 
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
         <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40" />
     </a>
 
-    <a href="https://docs.aiogram.dev/en/latest/" target="_blank" rel="noreferrer">
+<a href="https://docs.aiogram.dev/en/latest/" target="_blank" rel="noreferrer">
         <img src="https://docs.aiogram.dev/en/dev-3.x/_static/logo.png" alt="aiogram" width="40" height="40" />
     </a>
 
