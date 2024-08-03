@@ -5,9 +5,10 @@
     </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uznetdev&label=Profile%20views&color=0e75b6&style=flat"
         alt="uznetdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=uznetdev" alt="uznetdev" /></a> </p>
+<h1>🏆 GitHub Profile Trophy</h1>
+    <img src="https://github-profile-trophy.vercel.app/?username=UznetDev&theme=darkhub" alt="GitHub Profile Trophy">
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=uznetdev" alt="uznetdev" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
