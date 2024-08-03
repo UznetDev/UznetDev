@@ -4,6 +4,7 @@
     <p align="center">A Data sciense, ML, Backend developer</p>
     </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uznetdev&label=Profile%20views&color=0e75b6&style=flat"
+
         alt="uznetdev" /> </p>
 <h1>🏆 GitHub Profile Trophy</h1>
     <img src="https://github-profile-trophy.vercel.app/?username=UznetDev&theme=darkhub" alt="GitHub Profile Trophy">
