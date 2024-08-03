@@ -7,18 +7,21 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/uznetdev" target="blank"><img
-            src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
-    <a href="https://linkedin.com/in/uznet_dev" target="blank"><img align="center"
+<a href="https://twitter.com/uznetdev" target="blank"><img align="center"
+            src="https://codernet.uz/data/img/twitter.svg" 
+            alt="uznet_dev" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/uznet_dev" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="uznet_dev" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/uznetdev" target="blank"><img align="center"
+            
+<a href="https://www.leetcode.com/uznetdev" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="uznetdev" height="30" width="40" /></a>
-    <a href="https://t.me/uznet_dev/" target="blank"><img align="center"
+<a href="https://t.me/uznet_dev/" target="blank"><img align="center"
             src="https://codernet.uz/data/img/telegram.svg"
             alt="uznetdev" height="30" width="40" /></a>
-    <a href="mailto:uznattv@gmail.com" , target="blank">
+<a href="mailto:uznattv@gmail.com" , target="blank">
         <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png"
             alt="Gmail" alt="uznetdev" height="30" width="40" />
     </a>
