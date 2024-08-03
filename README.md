@@ -19,7 +19,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="uznetdev" height="30" width="40" /></a>
     <a href="https://t.me/uznet_dev/" target="blank"><img align="center"
-            src="https://image.shutterstock.com/image-vector/white-paper-plane-on-blue-260nw-1072557293.jpg"
+            src="https://codernet.uz/data/img/telegram.svg"
             alt="uznetdev" height="30" width="40" /></a>
     <a href="mailto:uznattv@gmail.com" , target="blank">
         <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png"
@@ -112,7 +112,7 @@
     </a>
 
 <a href="https://core.telegram.org/bots" target="_blank" rel="noreferrer">
-        <img src="https://image.shutterstock.com/image-vector/white-paper-plane-on-blue-260nw-1072557293.jpg"
+        <img src="https://codernet.uz/data/img/telegram.svg"
             alt="Telegram Bot" width="40" height="40" />
     </a>
 
