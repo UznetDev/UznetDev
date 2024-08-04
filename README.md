@@ -127,11 +127,11 @@
 
 
 <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=uznetdev&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=uznetdev&show_icons=true&locale=en&layout=compact&theme=radical"
         alt="uznetdev" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=uznetdev&show_icons=true&locale=en" alt="uznetdev" />
+        src="https://github-readme-stats.vercel.app/api?username=uznetdev&show_icons=true&locale=en&theme=radical" alt="uznetdev" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uznetdev&" alt="uznetdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uznetdev&theme=radical&" alt="uznetdev" /></p>
