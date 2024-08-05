@@ -85,7 +85,7 @@
     </a>
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
+        <img src="https://codernet.uz/data/img/bash-icon-svgrepo-com.svg" alt="Bash" width="40" height="40" />
     </a>
 
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
