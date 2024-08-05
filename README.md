@@ -115,7 +115,7 @@
     </a>
 
 <a href="https://docs.aiogram.dev/en/latest/" target="_blank" rel="noreferrer">
-        <img src="https://docs.aiogram.dev/en/dev-3.x/_static/logo.png" alt="aiogram" width="40" height="40" />
+        <img align="center" src="https://docs.aiogram.dev/en/dev-3.x/_static/logo.png" alt="aiogram" width="40" height="40" />
     </a>
 </p>
 
