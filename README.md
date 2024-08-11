@@ -1,7 +1,7 @@
 <p align="center">
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
     <h2 align="center">Abdurahmon Niyozaliev</h2>
-    <p align="center">A Data sciense, ML, Backend developer</p>
+    <p align="center">A Data sciense, ML, Backend developer.</p>
     </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uznetdev&label=Profile%20views&color=0e75b6&style=flat" alt="uznetdev" /> </p>
