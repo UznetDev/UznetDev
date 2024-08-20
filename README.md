@@ -10,7 +10,7 @@
     <a href="https://twitter.com/uznetdev" target="blank"><img align="center"
                 src="https://codernet.uz/data/img/twitter.svg" 
                 alt="uznet_dev" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/abdurakhmon-niyozaliyev-%F0%9F%87%B5%F0%9F%87%B8-66545222a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/abdurakhmon-niyozaliyev-66545222a" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="uznet_dev" height="30" width="40" /></a>   
     <a href="https://www.leetcode.com/uznetdev" target="blank"><img align="center"
