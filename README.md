@@ -3,7 +3,6 @@
     <h2 align="center">Abdurahmon Niyozaliev</h2>
     <p align="center">A Data sciense, ML, Backend developer.</p>
     </p>
-    
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uznetdev&label=Profile%20views&color=0e75b6&style=flat" alt="uznetdev" /> </p>
 
