@@ -110,9 +110,6 @@
             alt="Telegram Bot" width="40" height="40" />
     </a>
 
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40" />
-    </a>
 
 <a href="https://docs.aiogram.dev/en/latest/" target="_blank" rel="noreferrer">
         <img align="center" src="https://docs.aiogram.dev/en/dev-3.x/_static/logo.png" alt="aiogram" width="40" height="40" />
