@@ -7,10 +7,10 @@
 
 
 <a href="Resume.pdf" target="_blank" rel="noreferrer">
-<h2>
-    <img src="img/resume.svg" alt="c" width="40"
-            height="40" /> My Resume</h2>
+    <img src="img/resume.svg" alt="c" width="40" height="40" style="vertical-align: middle;" /> 
+    <span style="color:gold; font-size:20px; vertical-align: middle;">My Resume</span>
 </a>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
