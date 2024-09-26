@@ -5,13 +5,10 @@
     </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uznetdev&label=Profile%20views&color=0e75b6&style=flat" alt="uznetdev" /> </p>
 
-
 <a href="Resume.pdf" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="img/resume.svg" alt="resume" width="60" height="60" style="vertical-align: middle;" />
     <span style="vertical-align: middle; color: gold; font-size: 24px;">My Resume</span>
 </a>
-
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
