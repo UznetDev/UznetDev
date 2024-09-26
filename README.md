@@ -6,6 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uznetdev&label=Profile%20views&color=0e75b6&style=flat" alt="uznetdev" /> </p>
 
 
+<a href="img/resume.svg" target="_blank" rel="noreferrer">
+<img src="Resume.pdf" alt="c" width="40"
+            height="40" />
+        <h2>My Resume</h2>
+</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
