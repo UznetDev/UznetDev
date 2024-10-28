@@ -7,7 +7,6 @@
 
 <a href="Resume.pdf" target="_blank" style="text-decoration: none;">
     <img src="img/resume.svg" alt="resume" width="60" height="60" style="vertical-align: middle;" />
-<!--     <span style="vertical-align: middle; color: gold; font-size: 24px;">My Resume</span> -->
 </a>
 
 
