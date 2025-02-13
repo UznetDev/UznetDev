@@ -8,7 +8,6 @@
 <a href="Resume.pdf" target="_blank" style="text-decoration: none;">
     <img src="img/resume.svg" alt="resume" width="60" height="60" style="vertical-align: middle;" />
 </a>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://twitter.com/uznetdev" target="blank"><img align="center"
