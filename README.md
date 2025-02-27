@@ -20,7 +20,7 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
                 alt="uznetdev" height="30" width="40" /></a>
     <a href="https://t.me/uznet_dev/" target="blank"><img align="center"
-                src="https://codernet.uz/data/img/telegram.svg"
+                src="img/telegram.svg"
                 alt="uznetdev" height="30" width="40" /></a>
     <a href="https://www.instagram.com/uznet_dev/" target="blank"><img align="center"
                 src="https://codernet.uz/data/img/instagram.svg"
