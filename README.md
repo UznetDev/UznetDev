@@ -79,7 +79,7 @@
             alt="fastapi" width="40" height="40" />
     </a>
     <a href="https://docs.aiogram.dev/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/68694599?s=200&v=4" alt="aiogram" width="40" height="40" />
+        <img src="img/aiogram.webp" alt="aiogram" width="40" height="40" />
     </a>
 
 <a href="https://www.numpy.org/" target="_blank" rel="noreferrer">
