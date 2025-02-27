@@ -91,7 +91,7 @@
     </a>
 
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://codernet.uz/data/img/matplotlib.svg" alt="Matplotlib" width="40" height="40" />
+        <img src="img/matplotlib.svg" alt="Matplotlib" width="40" height="40" />
     </a>
 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
