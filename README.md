@@ -11,7 +11,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://twitter.com/uznetdev" target="blank"><img align="center"
-                src="https://codernet.uz/data/img/twitter.svg" 
+                src="img/twitter-bird.svg" 
                 alt="uznet_dev" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/abdurakhmon-niyozaliyev-66545222a" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
