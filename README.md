@@ -23,7 +23,7 @@
                 src="img/telegram.svg"
                 alt="uznetdev" height="30" width="40" /></a>
     <a href="https://www.instagram.com/uznet_dev/" target="blank"><img align="center"
-                src="https://codernet.uz/data/img/instagram.svg"
+                src="img/instagram.svg"
                 alt="uznetdev" height="30" width="40" /></a>
     <a href="mailto:uznattv@gmail.com" , target="blank">
             <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png"
