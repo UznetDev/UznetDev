@@ -73,15 +73,18 @@
 <!--     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a> -->
-
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg"
+            alt="fastapi" width="40" height="40" />
+    </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg"
             alt="fastapi" width="40" height="40" />
     </a>
-    <a href="https://docs.aiogram.dev/" target="_blank" rel="noreferrer">
-        <img src="img/aiogram.webp" alt="aiogram" width="40" height="40" />
-    </a>
 
+<a href="https://docs.aiogram.dev/" target="_blank" rel="noreferrer">
+        <img src="img/aiogram.webp" alt="aiogram" width="40" height="40" />
+</a>
 <a href="https://www.numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://numpy.org/doc/stable/_static/numpylogo_dark.svg" alt="NumPy" width="40" height="40" />
     </a>
